@@ -35,7 +35,7 @@ header img {
 }
 
 .about hr {
-    width: 25%;
+    width: 10%;
     border-bottom: #373A3C solid 1pt;
     
 }
@@ -68,6 +68,12 @@ header img {
 
 }
 
+.work hr {
+    width: 20%;
+    border-bottom: #ffffff solid 1pt;
+
+}
+
 .carousel-indicators li {
     width: 2rem;
     height: 1rem;
@@ -79,4 +85,23 @@ header img {
 
 .carousel-indicators li {
     background-color: #7a7a7a;
+}
+
+/* CONTACT */
+
+.contact {
+    padding-bottom: 5rem;
+}
+
+.contact h2 {
+    font-weight: bold;
+    font-size: 1.7rem;
+    text-align: center;
+
+}
+
+.contact hr {
+    width: 5%;
+    border-bottom: #373A3C solid 1pt;
+
 }
