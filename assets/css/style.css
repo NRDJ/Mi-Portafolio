@@ -1,4 +1,47 @@
 body {
     font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    color: #373A3C;
 }
+
+/* NAVBAR */
+
+nav h1 {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+nav .navbar-nav {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+nav .navbar-nav a {
+    margin-right: 1rem;
+}
+
+/* HEADER */
+
+header img {
+    width: 100%;
+}
+
+/* ABOUT */
+
+.about h2 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.about hr {
+    width: 25%;
+    border-bottom: #373A3C solid 1pt;
+    
+}
+
+.about p {
+    font-size: 1rem;
+}
+
 
