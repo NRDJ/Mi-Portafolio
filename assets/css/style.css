@@ -64,14 +64,11 @@ header img {
 
 .work img {
     width: 100%;
-    padding-bottom: 5rem;
-
 }
 
 .work hr {
     width: 20%;
     border-bottom: #ffffff solid 1pt;
-
 }
 
 .carousel-indicators li {
@@ -85,6 +82,7 @@ header img {
 
 .carousel-indicators li {
     background-color: #7a7a7a;
+    margin-bottom: -2rem;
 }
 
 /* CONTACT */
@@ -108,17 +106,18 @@ header img {
 
 /* FOOTER */
 
-footer {
-    display: flex;
-    justify-content: center;
-
-}
 
 footer i {
     padding-left: 1rem;
 }
 
 footer h2 {
-    padding-right: 35rem;
+
     font-weight: bold;
 }
+
+footer a {
+    color: white;
+}
+
+
