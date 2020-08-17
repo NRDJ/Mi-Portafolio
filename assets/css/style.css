@@ -35,7 +35,7 @@ header img {
 }
 
 .about hr {
-    width: 10%;
+    width: 8%;
     border-bottom: #373A3C solid 1pt;
     
 }
@@ -52,7 +52,7 @@ header img {
 }
 
 .experience hr {
-    width: 10%;
+    width: 7%;
     border-bottom: #373A3C solid 1pt;
 }
 
@@ -104,4 +104,21 @@ header img {
     width: 5%;
     border-bottom: #373A3C solid 1pt;
 
+}
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    justify-content: center;
+
+}
+
+footer i {
+    padding-left: 1rem;
+}
+
+footer h2 {
+    padding-right: 35rem;
+    font-weight: bold;
 }
